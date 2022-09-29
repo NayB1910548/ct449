@@ -6,8 +6,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ngoc Nay",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaNgocNayB1910548/ct449.git"
+  },
+  "author": "NayB1910548",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LaNgocNayB1910548/ct449/issues"
+  },
+  "homepage": "https://github.com/LaNgocNayB1910548/ct449#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.18.1"
